@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Fidzz
+#  FidszzCodex
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Enthusiast" />
 
@@ -18,6 +18,6 @@
 const fidzz = {
   role: "JavaScript Developer",
   focus: "WhatsApp Bot",
-  stack: ["NodeJS", "Baileys", "MongoDB"],
+  stack: ["NodeJS", "Baileys"],
   status: "Debugging..."
 }
